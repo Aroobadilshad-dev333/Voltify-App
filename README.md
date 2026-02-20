@@ -24,7 +24,7 @@ An e-commerce frontend for electronics – browse products, filter by category a
 | Framework   | React 18 |
 | Build       | Vite 6 |
 | Styling     | Tailwind CSS 4 |
-| Routing     | React Router v6 |
+| Routing     | React Router v7 |
 | HTTP        | Axios |
 | State       | React Context (DataContext, CartContext) |
 | UI/UX       | React Icons, Lucide React, Lottie, React Slick, React Toastify, React Scroll to Top |
